@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HomeWork 2.4
 //
-//  Created by Alex Tegai on 06.07.2021.
+//  Created by Alex Tegai on 04.04.2021.
 //
 
 import UIKit
